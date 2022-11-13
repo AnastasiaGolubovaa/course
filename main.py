@@ -6,3 +6,8 @@ age = int(input ("select number:"))
 name = input("select name:")
 print(f"Hi {name}")
 #.
+
+if ...:
+    pass
+elif ...:
+    ...
